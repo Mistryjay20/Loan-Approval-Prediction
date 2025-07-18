@@ -51,3 +51,5 @@ The dataset contains the following columns:
 
 > The dataset is stored as: `loan_approval_dataset.csv`
 
+#Author
+JayKumar Pravinbhai Mistry
